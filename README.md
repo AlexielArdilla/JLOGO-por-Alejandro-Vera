@@ -1,7 +1,7 @@
 # JLOGO-por-Alejandro-Vera 🚀
 ```
-Aplicación Java desktop para la materia Taller de programación,</br> 
-interfaz gráfica en Swing. Consiste en una interfaz para dibujar </br>
+Aplicación Java desktop para la materia Taller de programación, 
+interfaz gráfica en Swing. Consiste en una interfaz para dibujar 
 insertando comandos, incluye narración por voz de cada comando.
 ```
 
